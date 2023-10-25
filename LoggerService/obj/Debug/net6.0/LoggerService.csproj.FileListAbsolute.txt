@@ -1,0 +1,12 @@
+C:\GIT\Temp\UserAPI\LoggerService\obj\Debug\net6.0\LoggerService.csproj.AssemblyReference.cache
+C:\GIT\Temp\UserAPI\LoggerService\obj\Debug\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\Temp\UserAPI\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfoInputs.cache
+C:\GIT\Temp\UserAPI\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfo.cs
+C:\GIT\Temp\UserAPI\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\GIT\Temp\UserAPI\LoggerService\bin\Debug\net6.0\LoggerService.deps.json
+C:\GIT\Temp\UserAPI\LoggerService\bin\Debug\net6.0\LoggerService.dll
+C:\GIT\Temp\UserAPI\LoggerService\bin\Debug\net6.0\LoggerService.pdb
+C:\GIT\Temp\UserAPI\LoggerService\obj\Debug\net6.0\LoggerService.dll
+C:\GIT\Temp\UserAPI\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
+C:\GIT\Temp\UserAPI\LoggerService\obj\Debug\net6.0\LoggerService.pdb
+C:\GIT\Temp\UserAPI\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll
