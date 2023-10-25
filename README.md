@@ -21,4 +21,19 @@ There are no external dependencies at this time.
 # Contribute
 # API Definition
 ## Endpoints
+### Request
 
+`GET api/User/Search`
+
+    curl -i -H 'Accept: application/json' -d 'searchStr=james' http://localhost:7091/api​/User​/Search
+
+### Response
+
+    HTTP/1.1 200 OK
+    Date: Wed, 25 Oct 2023 21:36:30 GMT
+    Status: 200 OK
+    Connection: close
+    content-type: application/json; charset=utf-8 
+    server: Kestrel 
+
+[{"id": 8,"firstName": "James","lastName": "kubu","emailAddress": "jkubu7@craigslist.org","gender": "Male"},{"id": 11,"firstName": "James","lastName": "Pfeffer","emailAddress": "bpfeffera@amazon.com","gender": "Male"}]
