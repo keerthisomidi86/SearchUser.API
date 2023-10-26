@@ -1,13 +1,17 @@
 # SearchUser.API
 This API has endpoints to search user.
+
 # Introduction
-The aim of this application is to provide various endpoints for user operations like Search etc.
+The aim of this application is to provide various endpoints for user operations like Search etc. The data used here is not from any sources like databases etc unlike it's a dummy data
+hardcoded in a model to do the data operations.
 
 # Getting Started
-##	Using Visual Studio
+   1. Using Visual Studio 2022 as the editor.
+   2. C#.net as a language.
+   3. .Net core 6.0 framework.
 
 ### Installation
-1. On 'GitHub' within Visual Studio connect to a project and clone the repository https://github.com/keerthisomidi86/SearchUser.API.git
+1. On 'GitHub' within Visual Studio connect to a project and clone the repository from https://github.com/keerthisomidi86/SearchUser.API.git
 
 # Build and Test
 1. Currently the system builds and runs locally on iisexpress as it's not deployed or hosted anywhere on the servers.
